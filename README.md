@@ -22,12 +22,13 @@ I build things that feel simple but are strong under pressure — fast, reliable
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesseRod329&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=00D4FF&icon_color=00FF88&title_color=00D4FF&text_color=ffffff&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JesseRod329&theme=github_dark" />
   <img height="180em" src="https://streak-stats.demolab.com?user=JesseRod329&theme=github-dark-blue&background=0D1117&border=00D4FF&stroke=00D4FF&ring=00FF88&fire=00FF88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=888888" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseRod329&layout=compact&theme=github_dark&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=ffffff&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JesseRod329&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JesseRod329&theme=github_dark" />
 </p>
 
 ---
